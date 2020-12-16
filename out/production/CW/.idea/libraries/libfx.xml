@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libfx">
+    <CLASSES>
+      <root url="file:///usr/lib/jvm/java-14-openjdk/libfx" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///usr/lib/jvm/java-14-openjdk/libfx" recursive="false" />
+  </library>
+</component>
